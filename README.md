@@ -1,2 +1,3 @@
-# Music_Generation_TFM
-Code and data for Music Generation with LSTM project.
+# ANÁLISIS COMPARATIVO DE MODELOS PROFUNDOS PARA LA GENERACIÓN AUTOMÁTICA DE MELODÍAS ARMONIZADAS
+
+Datos y samples del proyecto final del Máster en Ciencia de Datos
